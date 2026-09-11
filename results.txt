@@ -1,0 +1,5 @@
+[{'person': '1', 'group': 'control', 'score': '72'}, {'person': '2', 'group': 'control', 'score': ''}, {'person': '3', 'group': 'control', 'score': '71'}, {'person': '4', 'group': 'treatment', 'score': '85'}, {'person': '5', 'group': 'treatment', 'score': '88'}, {'person': '6', 'group': 'treatment', 'score': '82'}]
+total rows: 6
+missing scores: 1
+control 71.5
+treatment 85.0
